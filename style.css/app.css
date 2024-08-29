@@ -36,7 +36,7 @@ button {
   padding: 3px 15px;
   border-radius: 15px;
   border-color: yellow black black yellow;
-  transition: transform 0.3s ease,border-color 0.3s ease; /*burdaki transtion:(bu kısma özelliğn adı ornek border-reius ve süre sonra ease) gibi kullanabilirsiniz*/ 
+  transition: transform 0.3s ease,border-color 0.3s ease; /* transtion:(bu kısma özelliğn adı ornek border-reius ve süre sonra ease) gibi kullanabilirsiniz*/ 
 }
 button:hover {
   transform: scale(1.1);
